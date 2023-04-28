@@ -1,0 +1,3 @@
+[submodule "Elastic-Beanstalk"]
+	path = Elastic-Beanstalk
+	url = https://github.com/CaolanRice/Elastic-Beanstalk.git
